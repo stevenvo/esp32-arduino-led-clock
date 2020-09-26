@@ -1,3 +1,5 @@
+Implementation of the hardware in https://www.thingiverse.com/thing:3014572
+
 Add a `secrets.h` under `src` directory:
 
 ```
